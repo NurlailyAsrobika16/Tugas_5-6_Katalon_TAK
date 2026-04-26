@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC013_Get_CoverPhotos</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>de04fc09-d345-4a09-88b1-869094b01961</testCaseGuid>
+</TestCaseEntity>

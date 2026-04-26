@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC017_Get_Users</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7640b4c0-1cbd-473b-a8e4-66ef39bc978e</testCaseGuid>
+</TestCaseEntity>

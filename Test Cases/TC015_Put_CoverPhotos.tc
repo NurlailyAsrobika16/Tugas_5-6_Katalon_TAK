@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC015_Put_CoverPhotos</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>af9a2163-0f8a-4267-81d3-53e2e021cf9a</testCaseGuid>
+</TestCaseEntity>

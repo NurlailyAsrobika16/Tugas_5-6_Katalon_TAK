@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC007_Put_Authors</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6d8fc1f1-74b6-4d4a-a5af-b91c29cbaba1</testCaseGuid>
+</TestCaseEntity>

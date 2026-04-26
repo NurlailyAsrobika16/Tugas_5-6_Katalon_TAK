@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC016_Delete_CoverPhotos</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>30da3ba6-3d81-4377-a825-d66c846d827a</testCaseGuid>
+</TestCaseEntity>
